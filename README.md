@@ -27,4 +27,4 @@ O sistema funciona como um CRUD (Create, Read, Update, Delete) completo e possui
 4. Execute o comando abaixo (substituindo pelo nome real do seu arquivo, caso seja diferente):
 
 ```bash
-python cadastro.py
+main.py
